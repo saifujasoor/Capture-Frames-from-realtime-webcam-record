@@ -25,20 +25,23 @@ OpenCV is short for Open Source Computer Vision. Intuitively by the name, it is 
 Make sure you have Python, OpenCV, Flask  installed on your system to run this project.
 
 ### Execution guide
-1. Download the contents of the repository
-Or Directly get the project by 
-''' git clone 
-https://github.com/saifujasoor/Capture-Frames-from-realtime-webcam-record.git
-'''
+1. Download the contents of the repository <br>
+OR <br> Directly get the project by typing the following commend on your terminal
+``` 
+git clone https://github.com/saifujasoor/Capture-Frames-from-realtime-webcam-record.git
+```
 3. Make sure the necessary prerequisites are installed on your system
 4. Type the following command inside the directory on your terminal
   ```sh
   python3 app.py
   ```
-  Or just type 
-  ...
+  <br>
+  You can also run the project by following command 
+  <br> 
+  
+  ```
   flask run
-  '''
+  ```
   
 4. Click http://127.0.0.1:5000/ (Press CTRL+C to quit)
 
